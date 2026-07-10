@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # RAG - QA
 
 This repository contains a Retrieval Augmented Generation (RAG) application. This application allows you to ingest data and then interact with it through a user-friendly interface.
@@ -54,3 +55,6 @@ Launch the Streamlit application:
 =======
 # AI-ACADEMIC-SYSTEM-USING-RAG
 >>>>>>> 152d1d7e2eda4db4c7ace849f2ebc9ca76283f9e
+=======
+# EduMind-AI
+>>>>>>> 0ff9b729d0f94408e171d7b302c649f0dae04992
